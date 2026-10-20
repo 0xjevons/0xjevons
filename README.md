@@ -37,5 +37,5 @@ A market can attain its greatest utility only when its rules are fixed in advanc
 ### Communications
 
 * Cryptographic Dispatch: william.jevons@proton.me
-* Public Log: @_0xjevons
-* Network Interface: @jevons_0x
+* Public Log: [@0xjevons](https://x.com/0xjevons)
+* Network Interface: [@jevons_0x](https://t.me/jevons_0x)
